@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Dr. David Kemp",
+    "type": "Cardiologist",
+    "description": "A doctor can be found in several settings, including public health organizations, group practices, and hospitals. They have some of the most diverse and challenging careers available and are part of a universally well-respected profession.",
+    "education": "MBBS",
+    "location": "Dhaka",
+    "constFee": "1000",
+    "goodReviews": 79.2,
+    "isFavourite": true,
+    "rating": 4.5,
+    "satisfaction": 85.2,
+    "totalScore": 93.2
+  },
+  {
+    "name": "Dr. Emily Johnson",
+    "type": "Pediatrician",
+    "description": "Specializes in the health and medical care of infants, children, and adolescents.",
+    "education": "MBBS, MD Pediatrics",
+    "location": "New York",
+    "constFee": "1500",
+    "goodReviews": 88.5,
+    "isFavourite": false,
+    "rating": 4.8,
+    "satisfaction": 90.4,
+    "totalScore": 95.6
+  },
+  {
+    "name": "Dr. Sarah Lee",
+    "type": "Dermatologist",
+    "description": "Expert in skin, hair, and nail treatments. Handles a variety of dermatological conditions.",
+    "education": "MBBS, MD Dermatology",
+    "location": "Los Angeles",
+    "constFee": "1200",
+    "goodReviews": 76.3,
+    "isFavourite": true,
+    "rating": 4.3,
+    "satisfaction": 84.0,
+    "totalScore": 89.7
+  },
+  {
+    "name": "Dr. Michael Brown",
+    "type": "Neurologist",
+    "description": "Specializes in diagnosing and treating diseases of the nervous system, including the brain, spinal cord, and nerves.",
+    "education": "MBBS, MD Neurology",
+    "location": "Chicago",
+    "constFee": "2000",
+    "goodReviews": 92.1,
+    "isFavourite": false,
+    "rating": 4.9,
+    "satisfaction": 93.2,
+    "totalScore": 97.1
+  },
+  {
+    "name": "Dr. Anna Smith",
+    "type": "Orthopedic",
+    "description": "Specialist in treating injuries and disorders of the musculoskeletal system.",
+    "education": "MBBS, MD Orthopedics",
+    "location": "Houston",
+    "constFee": "1800",
+    "goodReviews": 89.0,
+    "isFavourite": true,
+    "rating": 4.7,
+    "satisfaction": 88.8,
+    "totalScore": 94.5
+  },
+  {
+    "name": "Dr. Robert Williams",
+    "type": "Dentist",
+    "description": "Expert in oral health, diagnosing and treating dental problems.",
+    "education": "BDS, MDS",
+    "location": "Miami",
+    "constFee": "800",
+    "goodReviews": 80.0,
+    "isFavourite": false,
+    "rating": 4.4,
+    "satisfaction": 86.5,
+    "totalScore": 91.0
+  },
+  {
+    "name": "Dr. Olivia Taylor",
+    "type": "Ophthalmologist",
+    "description": "Specialist in eye care, including diagnosing and treating eye diseases and performing eye surgeries.",
+    "education": "MBBS, MD Ophthalmology",
+    "location": "San Francisco",
+    "constFee": "1300",
+    "goodReviews": 87.2,
+    "isFavourite": true,
+    "rating": 4.6,
+    "satisfaction": 89.5,
+    "totalScore": 93.8
+  }
+]
